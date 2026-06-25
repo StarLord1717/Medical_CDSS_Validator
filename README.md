@@ -1,0 +1,2 @@
+# Medical_CDSS_Validator
+壓力型蕁麻疹與深層血管水腫交叉驗證系統
